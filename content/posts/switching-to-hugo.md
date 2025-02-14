@@ -1,6 +1,6 @@
 ---
 date: '2025-02-14T09:39:15+01:00'
-draft: true
+draft: false
 title: 'Switching to Hugo'
 ---
 
