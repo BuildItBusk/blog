@@ -2,6 +2,8 @@
 date: '2025-02-18T15:51:33+01:00'
 draft: false
 title: 'Five things you may need to do with Git'
+description: 'Five practical Git commands to improve your workflow: readable logs, staging files, undoing commits, amending changes, and cleaning untracked files.'
+tags: ['git', 'version-control', 'developer-tools', 'workflow', 'commands']
 ---
 
 Git is incredibly powerful, but many developers stick to the same basic commands without exploring its full potential. In this post, I’ll walk you through some simple yet powerful Git commands that you might not be using—but should. These are not advanced or obscure features, just practical enhancements to common tasks that can make your workflow smoother and more efficient.

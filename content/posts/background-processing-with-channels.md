@@ -2,6 +2,8 @@
 date: '2025-04-15T10:38:08+02:00'
 draft: false
 title: 'Background Processing With Channels'
+description: 'Learn how to combine .NET Channels and BackgroundService to process real-time data efficiently without missing entries.'
+tags: ['dotnet', 'csharp', 'channels', 'background-service', 'async']
 ---
 
 I recently came across a scenario, where I had to process a lot of incoming data in real time, where missing a single entry is not an option. At the same time I wanted to disconnect the class which was fetching data (the collector) from the class which were processing the data (the processor). The result was a combination of [Channels](https://learn.microsoft.com/en-us/dotnet/core/extensions/channels) and the [BackgroundService](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services).
@@ -63,7 +65,7 @@ class Processor : BackgroundService
 
 Obviously this is over simplified, but take it as a template which you can use to get started. There are too many different use cases to cover everything in this post.
 
-One thing we do need to cover, is how to use it though. For a console application, you will have to instantiate the *collector* and processor* manually and hook them up to the same channel (which you also have to instantiate).
+One thing we do need to cover, is how to use it though. For a console application, you will have to instantiate the *collector* and *processor* manually and hook them up to the same channel (which you also have to instantiate).
 
 **Console application**
 ```cs

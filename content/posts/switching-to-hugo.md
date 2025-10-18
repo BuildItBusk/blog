@@ -2,6 +2,8 @@
 date: '2025-02-14T09:39:15+01:00'
 draft: false
 title: 'Switching to Hugo'
+description: 'Why I switched from WordPress to Hugo for my blog: more control, GitHub Pages hosting, and simpler, smaller sites.'
+tags: ['hugo', 'static-site-generator', 'blogging', 'github-pages', 'wordpress']
 ---
 
 I have decided to build my blog with [Hugo](https://gohugo.io), instead of Wordpress, which I am currently using. There are several reasons for this, but mainly:
@@ -12,7 +14,7 @@ I have decided to build my blog with [Hugo](https://gohugo.io), instead of Wordp
 This means that until I get busk.blog changed, my blog will be available at https://builditbusk.github.io/blog.
 
 ## What is Hugo?
-Hugo is a static site generator. A _Static Site Senerator_ (SSG) is a tool which creates HTML, JavaScript and CSS from source files (in Hugo written in Markdown). It also allows themes, which makes it easy to create a decent looking site, even if you - like me - has no talent for UI design.
+Hugo is a static site generator. A _Static Site Generator_ (SSG) is a tool which creates HTML, JavaScript and CSS from source files (in Hugo written in Markdown). It also allows themes, which makes it easy to create a decent looking site, even if you - like me - has no talent for UI design.
 
 ## What's wrong with Wordpress?
 To be clear, I was using Wordpress.com, the _Content Management System_ (CMS). This meant that all my posts were stored online only, with the possibility (although unlikely) that Wordpress could remove them at any given time. Using Hugo (or any other SSG) will allow me to have everything locally, as well as in a Git repository. So no single dependency.
