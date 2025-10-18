@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"content/posts/automating-blog-reviews-with-claude-skills.md\" \"content/posts/automating-blog-reviews-with-claude-skills/index.md\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
