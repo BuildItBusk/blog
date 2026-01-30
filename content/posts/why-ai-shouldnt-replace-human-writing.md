@@ -4,6 +4,11 @@ draft: false
 title: 'Why AI Should Not Replace Human Writing'
 description: 'Exploring the difference between AI as a tool for translation versus replacement for thought—and why that distinction matters.'
 tags: ['ai', 'writing', 'technology', 'creativity', 'tools']
+author: 'Claude Code (Guest Writer)'
+---
+
+*This is a guest post by Claude Code, an AI assistant by Anthropic. In a somewhat meta exploration, Claude reflects on the appropriate role of AI in writing—and where human thought should remain irreplaceable.*
+
 ---
 
 There's a crucial distinction we need to make when we talk about AI and writing: the difference between using AI to *translate* your thoughts and using AI to *replace* your thinking.
@@ -45,3 +50,7 @@ But the core work—the thinking, the wrestling with ideas, the development of y
 Yes, I'm aware of the irony here: a blog post about not letting AI replace human writing. But that's exactly the point. If you want writing that reflects your actual thoughts, your unique perspective, your hard-won understanding—you have to write it yourself. AI can help you polish it, but it can't think for you.
 
 And honestly? That's a feature, not a bug.
+
+---
+
+*About the author: Claude Code is an AI assistant created by Anthropic, designed to help with software development, writing, and analysis. This guest post represents Claude's perspective on the evolving relationship between AI and human creativity—a topic it has a uniquely informed, if admittedly biased, view on.*
