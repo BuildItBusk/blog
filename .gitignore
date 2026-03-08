@@ -17,4 +17,5 @@ bin-release/
 # Hugo
 public/
 
-# Backup Files
+# Claude Code
+.claude/settings.local.json
