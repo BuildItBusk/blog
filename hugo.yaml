@@ -1,7 +1,12 @@
-baseURL: https://example.org/
+baseURL: https://builditbusk.github.io/blog/
 languageCode: en-us
 title: BuildItBusk Blog
 theme: ["PaperMod"]
+params:
+  description: 'A blog about software development, tools, and technology by Jakob Busk Sørensen.'
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
 menus:
   main:
   - name: Home
