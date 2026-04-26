@@ -86,6 +86,6 @@ Manual deployment is not necessary - simply push to main.
 ## Configuration Notes
 
 - **baseURL**: Currently set to `https://example.org/` in hugo.yaml (update when domain changes)
-- **Hugo Version**: 0.143.0 (extended) - specified in .github/workflows/hugo.yaml:35
+- **Hugo Version**: 0.160.1 (extended) - specified in .github/workflows/hugo.yaml:35
 - **Navigation**: Configured in hugo.yaml under `menus.main` (currently: Home and Posts)
 - **Theme**: PaperMod is the only theme and is loaded from themes/PaperMod submodule
