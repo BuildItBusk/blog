@@ -3,9 +3,7 @@ languageCode: en-us
 title: BuildItBusk Blog
 theme: ["PaperMod"]
 params:
-  author:
-    name: Jakob Busk Sørensen
-    email: busk.soerensen@gmail.com
+  author: Jakob Busk Sørensen
   description: 'A blog about software development, tools, and technology by Jakob Busk Sørensen.'
   ShowReadingTime: true
   ShowShareButtons: false
