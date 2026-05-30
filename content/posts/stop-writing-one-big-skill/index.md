@@ -1,14 +1,17 @@
 ---
 date: '2026-05-30T12:41:57+02:00'
 draft: false
-title: 'Most Claude Code Skills Are Too Big'
+title: 'How to Write Claude Code Skills (And Keep Them Small)'
 description: 'Why a 10-line Claude Code skill often beats a 500-line bundle with reference docs and scripts — and when the big skill is actually worth it.'
 tags: ['claude-code', 'ai-coding', 'productivity', 'skills']
+slug: 'claude-code-skills'
+aliases:
+  - '/posts/stop-writing-one-big-skill/'
 ---
 
 > ℹ️ This is the third post in a series on configuring Claude Code. The previous post was about [giving Claude Code the right context]({{< ref "claude-code-memory" >}}) without bloating every prompt.
 
-## The Mental Model
+## How Claude Code Skills Work
 
 You have skills. In fact, you probably have many skills. You know how to cook pasta. You know how to operate your oven, with all its quirks. You may also have some less common skills, like changing the wheels on your car. None of these alone are big things — knowing how to cook pasta isn't a 40-page manual, it's a handful of steps you reach for when you're standing at the stove. And you don't hold "change a wheel" in your head while cooking; it surfaces only when you need it. But each of these small, compact skills plays an important role in your life.
 

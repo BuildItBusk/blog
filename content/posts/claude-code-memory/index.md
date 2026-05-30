@@ -1,9 +1,12 @@
 ---
 date: '2026-04-26T07:21:54+02:00'
 draft: false
-title: 'Stop Writing One Big CLAUDE.md'
+title: 'How to Structure Your CLAUDE.md (Without Bloating Every Prompt)'
 description: 'CLAUDE.md, sub-directory CLAUDE.md, rules, and codebase structure: how to give Claude Code the right context without bloating every prompt.'
 tags: ['claude-code', 'ai-coding', 'productivity', 'documentation']
+slug: 'structure-claude-md'
+aliases:
+  - '/posts/claude-code-memory/'
 ---
 
 > ℹ️ This is the second post in a series on configuring Claude Code. The last post was about [configuring Claude Code permissions]({{< ref "claude-permissions" >}}). I would recommend reading it, but it's not required for the understanding of this post.
@@ -14,7 +17,7 @@ Imagine a consultant joins your team for a week — not the suited-up McKinsey t
 
 This consultant isn't human. They'll read every word you give them — but in the absence of guidance, they'll start reading the codebase itself, file by file, burning an hour and half their working memory before writing a line.
 
-## The Entry Point
+## What Goes in CLAUDE.md?
 
 Unless you are brand new to Claude Code, you already know of the [CLAUDE.md](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md) file. For this post you only need to understand that there are three different variants of this file.
 
